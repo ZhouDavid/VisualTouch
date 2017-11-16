@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"transl",
+				"translationText"
+			],
+			[
+				"desc",
+				"descrip"
+			],
+			[
+				"vi",
+				"visualizeJson"
+			],
+			[
+				"child",
+				"childKey"
+			],
+			[
+				"ileft",
+				"ileftEyeY"
+			],
+			[
+				"l",
+				"lhypotenuse"
+			],
+			[
+				"irightEy",
+				"irightEyeY"
+			],
+			[
+				"left",
+				"left-eye-open"
+			],
+			[
+				"lefte",
+				"leftEyeY"
+			],
+			[
+				"left-eye",
+				"left-eye-open"
+			],
+			[
+				"setT",
+				"setInterval"
+			],
+			[
+				"turn",
+				"turnActive"
+			],
+			[
+				"nu",
+				"neutral-mouse"
+			],
+			[
+				"xx-",
+				"xx-small"
+			],
+			[
+				"text",
+				"text2id"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"com",
+				"commentList"
+			],
+			[
+				"login",
+				"login_tag"
+			],
+			[
+				"finn",
+				"finnal_all_comment"
+			],
+			[
+				"pos",
+				"postData"
+			],
+			[
+				"rsa",
+				"rsaPublicKey"
+			],
+			[
+				"prelo",
+				"prelogin_url"
+			],
+			[
+				"dATA",
+				"dataManager"
+			],
+			[
+				"sortB",
+				"sortByValueDf2"
+			],
+			[
+				"sort",
+				"sortByIndexDf2"
+			],
+			[
+				"credi",
+				"creditData"
+			],
+			[
+				"cle",
+				"cleanOiriginText"
+			],
+			[
+				"origin",
+				"originText"
+			],
+			[
+				"tra",
+				"transText"
+			],
+			[
+				"ext",
+				"extractLines"
+			],
+			[
+				"extract",
+				"extractLines"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"one",
+				"one_hot_content"
+			],
+			[
+				"one_Hot",
+				"one_hot_file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nodej",
+				"Build With: NodeJs"
+			]
+		],
+		"width": 642.0
+	},
+	"console":
+	{
+		"height": 323.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ZhouJianyu/Desktop/a.js",
+		"/E/Sublime Text Build 3126 x64/Data/Packages/Nodejs/Nodejs.sublime-build",
+		"/E/Sublime Text Build 3126 x64/Data/Packages/Nodejs/Nodejs.sublime-settings",
+		"/E/Sublime Text Build 3126 x64/Data/Packages/User/NodeJs.sublime-build",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/GIX research/HuaweiV/VisualWebsite/public/javascripts/index.js",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/GIX research/HuaweiV/VisualWebsite/views/layout.jade",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/GIX research/HuaweiV/VisualWebsite/package.json",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/GIX research/HuaweiV/VisualWebsite/package-lock.json",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/index.js",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab4/lab4.html",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/drawingboard.js/dist/drawingboard.min.js",
+		"/C/Users/ZhouJianyu/Desktop/1.html",
+		"/C/Users/ZhouJianyu/Desktop/assignment3/index.html",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/robotv2.html",
+		"/C/Users/ZhouJianyu/Desktop/assignment3/index.js",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/1.js",
+		"/C/Users/ZhouJianyu/Desktop/echarts.js",
+		"/C/Users/ZhouJianyu/Desktop/package-lock.json",
+		"/C/Users/ZhouJianyu/Downloads/echarts.min.js",
+		"/C/Users/ZhouJianyu/Downloads/echarts.js",
+		"/C/Users/ZhouJianyu/Desktop/lab3/1.css",
+		"/E/Sublime Text Build 3126 x64/firebase.txt",
+		"/C/Users/ZhouJianyu/Desktop/2.html",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment2/style.css",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab2/lab22.html",
+		"/C/Users/ZhouJianyu/Desktop/assignment3/1.js",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab3/sender.html",
+		"/C/Users/ZhouJianyu/Desktop/test.html",
+		"/C/Users/ZhouJianyu/Desktop/assignment3/H5Compass.html",
+		"/C/Users/ZhouJianyu/Desktop/assignment3/robotv2.html",
+		"/C/Users/ZhouJianyu/Desktop/H5Compass.html",
+		"/C/Users/ZhouJianyu/Desktop/H5Compass_files/hammer.js",
+		"/C/Users/ZhouJianyu/Desktop/H5Compass_files/raphael.js",
+		"/C/Users/ZhouJianyu/Desktop/H5Compass_files/index.js",
+		"/C/Users/ZhouJianyu/AppData/Local/Temp/360zip$Temp/360$1/city.list.json",
+		"/C/Users/ZhouJianyu/Desktop/1.js",
+		"/C/Users/ZhouJianyu/Desktop/assignment3/server.php",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab2/scales.json",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab2/lab23.html",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment2/robotv2.html",
+		"/C/Users/ZhouJianyu/Desktop/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/robotv3.html",
+		"/C/Users/ZhouJianyu/Desktop/lab3/receiver.html",
+		"/C/Users/ZhouJianyu/Desktop/lab3/sender.html",
+		"/C/Users/ZhouJianyu/Desktop/lab3/lab3.html",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/weibo.html",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab2/lab23.html",
+		"/C/Users/ZhouJianyu/Desktop/jyzhou1019_files/layout.min.js.下载",
+		"/C/Users/ZhouJianyu/Desktop/jyzhou1019_files/layout.min.js",
+		"/E/jQuery/jquery-3.2.1.min.js",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab2/scales.json",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment2/style.css",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/test.js",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment2/robotv2.html",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/lab2/lab22.html",
+		"/C/Users/ZhouJianyu/Desktop/click.py",
+		"/C/Users/ZhouJianyu/Desktop/Untitled.ipynb",
+		"/C/Users/ZhouJianyu/Desktop/exercise.py",
+		"/C/Users/ZhouJianyu/Desktop/grade/calGrade.py",
+		"/C/Users/ZhouJianyu/Desktop/tmp/css/datouwang.css",
+		"/C/Users/ZhouJianyu/Desktop/quotes.json",
+		"/C/Users/ZhouJianyu/Desktop/pr.py",
+		"/C/Users/ZhouJianyu/Desktop/1.py",
+		"/E/messages.xml",
+		"/C/Users/ZhouJianyu/Desktop/blink.svg",
+		"/C/Users/ZhouJianyu/Desktop/dialog.svg",
+		"/C/Users/ZhouJianyu/Desktop/negative.svg",
+		"/C/Users/ZhouJianyu/Downloads/vectorpaint.svg",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/test.html",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/style.css",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/robotv2.html",
+		"/C/Users/ZhouJianyu/Downloads/jquery-3.2.1.js",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/negative.svg",
+		"/C/Users/ZhouJianyu/Desktop/active.svg",
+		"/C/Users/ZhouJianyu/Desktop/一套HTML5_SVG表情图标DEMO演示_files/style.css",
+		"/C/Users/ZhouJianyu/Desktop/iconmonstr-speech-bubble-2.svg",
+		"/C/Users/ZhouJianyu/Desktop/一套HTML5_SVG表情图标DEMO演示.html",
+		"/E/GIX program/Courses/2017Fall Quarter/Programming Digital Physical UI Studio/assignment/assignment3/robotFace.html",
+		"/E/jQuery/jquery-3.2.1.slim.min.js",
+		"/E/互联网大数据分析家中心实习/data/cluster/大数据.gexf",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/WeiboParser/tmp.gexf",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/WeiboParser/weibos",
+		"/C/Users/ZhouJianyu/Desktop/hyperledger-fabric.pdf",
+		"/C/Users/ZhouJianyu/Desktop/normal.svg",
+		"/E/一套HTML5_SVG表情图标DEMO演示.html",
+		"/C/Users/ZhouJianyu/Downloads/method-draw-image.svg",
+		"/C/Users/ZhouJianyu/Desktop/method-draw-image.svg",
+		"/C/Users/ZhouJianyu/Downloads/method-draw-image (1).svg",
+		"/C/Users/ZhouJianyu/Desktop/tmp.svg",
+		"/C/Users/ZhouJianyu/Desktop/一套HTML5_SVG表情图标DEMO演示_files/16741667.js.下载",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/WeiboParser/tmp2.gexf",
+		"/E/互联网大数据分析家中心实习/data/cluster/大连税务.gexf",
+		"/E/互联网大数据分析家中心实习/团体紧密度/script/interCluDis/main.py",
+		"/C/Users/ZhouJianyu/Desktop/大数据.gexf",
+		"/C/Users/ZhouJianyu/Desktop/《我们在一起》歌词",
+		"/C/Users/ZhouJianyu/Desktop/唐古拉",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/browserParse.py",
+		"/E/GIX research/CHI2018-Enhancing_touch_screen/HuaweiV/HuaweiV/app/src/main/java/com/example/bear/huaweiv/MainActivity.java",
+		"/E/GIX research/CHI2018-Enhancing_touch_screen/HuaweiV/HuaweiV/app/src/main/res/layout/activity_main.xml",
+		"/E/GIX research/CHI2018-Enhancing_touch_screen/HuaweiV/HuaweiV/app/src/main/java/com/example/bear/huaweiv/MyCanvas.java",
+		"/E/GIX research/CHI2018-Enhancing_touch_screen/HuaweiV2/HuaweiV/app/src/main/java/com/example/bear/huaweiv/MyCanvas.java",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/tmp",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/package com.example.zhoujianyu.helloworld;",
+		"/C/Users/ZhouJianyu/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/ZhouJianyu/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml",
+		"/C/Users/ZhouJianyu/AndroidStudioProjects/HelloWorld/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml",
+		"/E/page6.html",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/page5",
+		"/E/page.html",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/page4",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/page",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/test.py",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/borwserParse.py",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/test",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/q2.html",
+		"/C/Users/ZhouJianyu/Desktop/微博.html",
+		"/C/Users/ZhouJianyu/Desktop/微博2.html",
+		"/E/Python27/test.py",
+		"/E/Python27/tmp",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/test2.py",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/sinaweibo/sinaweibo/items.py",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/test.csv",
+		"/C/Users/ZhouJianyu/Desktop/新的生活开始了 yeah! ____ 来自刘亦菲 - 微博.html",
+		"/C/Users/ZhouJianyu/Desktop/test.py",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/tmp2",
+		"/C/Users/ZhouJianyu/Desktop/weibo.com.har",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/SinaSpider/lyf.html",
+		"/E/互联网大数据分析家中心实习/新浪微博/script/sinaweibo/sinaweibo/__init__.py"
+	],
+	"find":
+	{
+		"height": 73.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 55.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
